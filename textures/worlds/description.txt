@@ -1,0 +1,4 @@
+textures/worlds/crust/tileset1/tileset2_01.png DIRT SURFACE
+textures/worlds/crust/tileset1/tileset2_07.png DIRT INNER
+textures/worlds/magma/tileset1/tileset_01.png MAGMA SURFACE
+textures/worlds/magma/tileset1/tileset_07.png MAGMA SURFACE INNER
